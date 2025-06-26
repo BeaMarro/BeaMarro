@@ -1,7 +1,9 @@
 # Hi there 👋
 
 I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University of Applied Sciences, with a focus on Software Engineering and Artificial Intelligence.
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=BeaMarro&style=flat-square&color=0ab9e6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrice-marro/)
 
 ## 🧠 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -60,6 +62,3 @@ I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University o
 ## 🌐 CMS & Web Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-
-# Reach out!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrice-marro/)
