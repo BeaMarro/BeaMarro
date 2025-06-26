@@ -45,6 +45,16 @@ I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University o
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 📊 Artificial Intelligence and Data Analysis
+![Machine Learning](https://img.shields.io/badge/AI%20Concepts-Machine%20Learning-blue?style=flat-square)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-YOLOv8-orange?style=flat-square)
+![OCR](https://img.shields.io/badge/OCR-CNN%20%2B%20EasyOCR-yellow?style=flat-square)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-Collaborative%20Filtering-9cf?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Logistic%20Regression-lightgrey?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time%20Series-Prophet%20Model-critical?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Forecasting-Sea%20Level%20Prediction-green?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20SDK%20%26%20LangGraph-ff69b4?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-AI%20Agents-blueviolet?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
 
 ## 🌐 CMS & Web Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
