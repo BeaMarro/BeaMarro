@@ -3,6 +3,7 @@
 I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University of Applied Sciences, with a focus on Software Engineering and Artificial Intelligence.
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=BeaMarro&style=flat-square&color=0ab9e6)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrice-marro/)
 
 ## 🧠 Programming Languages
