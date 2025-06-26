@@ -51,7 +51,6 @@ I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University o
 ![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-Collaborative%20Filtering-9cf?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Logistic%20Regression-lightgrey?style=flat-square)
 ![Time Series](https://img.shields.io/badge/Time%20Series-Prophet%20Model-critical?style=flat-square)
-![Forecasting](https://img.shields.io/badge/Forecasting-Sea%20Level%20Prediction-green?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20SDK%20%26%20LangGraph-ff69b4?style=flat-square)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-AI%20Agents-blueviolet?style=flat-square)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
