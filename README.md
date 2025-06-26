@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University of Applied Sciences, with a focus on Software Engineering and Artificial Intelligence.
+![Visitor Badge](https://komarev.com/ghpvc/?username=BeaMarro&style=flat-square&color=0ab9e6)
 
 ## 🧠 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -53,24 +54,12 @@ I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University o
 ![Time Series](https://img.shields.io/badge/Time%20Series-Prophet%20Model-critical?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20SDK%20%26%20LangGraph-ff69b4?style=flat-square)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-AI%20Agents-blueviolet?style=flat-square)
+![Tool-Using Agents](https://img.shields.io/badge/Agents-Tool--Usage%20%26%20Coordination-blueviolet?style=flat-square)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
 
 ## 🌐 CMS & Web Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)  
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 
-<!-- Link to LinkedIn profile -->
-<!--
-**BeaMarro/BeaMarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Reach out!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatrice-marro/)
