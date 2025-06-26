@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am an ICT student at Fontys University of Applied Sciences, with a focus on Software Engineering and Artificial Intelligence.
+I'm **Beatrice Marro**, an ICT student at Fontys University of Applied Sciences, with a focus on Software Engineering and Artificial Intelligence.
 
 ## 🧠 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
