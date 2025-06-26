@@ -54,7 +54,6 @@ I'm **Beatrice Marro**, a 3<sup>rd</sup> year ICT student at Fontys University o
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20SDK%20%26%20LangGraph-ff69b4?style=flat-square)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-AI%20Agents-blueviolet?style=flat-square)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-Coordinated%20LLM%20Agents-blueviolet?style=flat-square)
 
 ## 🌐 CMS & Web Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
