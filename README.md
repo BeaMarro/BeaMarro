@@ -47,7 +47,7 @@ I'm **Beatrice Marro**, a final year ICT student at Fontys University of Applied
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vector Database](https://img.shields.io/badge/Vector_Databases-Embeddings%20%26%20Similarity_Search-8e44ad?style=for-the-badge)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-Embeddings%20%26%20Similarity_Search-8e44ad?style=for-the-badge)
 
 ## 📊 Artificial Intelligence, Machine Learning & Deep Learning
 
