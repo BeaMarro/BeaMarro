@@ -52,11 +52,10 @@ I'm **Beatrice Marro**, a final year ICT student at Fontys University of Applied
 
 ### 🤖 Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20%26%20Unsupervised-blue?style=flat-square)
+![Clustering](https://img.shields.io/badge/Clustering-K--Means%20%26%20Hierarchical-6aa84f?style=flat-square)
 ![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-Collaborative%20Filtering-9cf?style=flat-square)
 ![Time Series](https://img.shields.io/badge/Time%20Series-Prophet%20Model-critical?style=flat-square)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
-
----
 
 ### 🧠 Deep Learning
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blueviolet?style=flat-square)
@@ -65,20 +64,14 @@ I'm **Beatrice Marro**, a final year ICT student at Fontys University of Applied
 ![Object Detection](https://img.shields.io/badge/Object%20Detection-YOLOv8-orange?style=flat-square)
 ![OCR](https://img.shields.io/badge/OCR-CNN%20%2B%20EasyOCR-yellow?style=flat-square)
 
----
-
 ### 🗣 Natural Language Processing (NLP)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Classification-lightgrey?style=flat-square)
 ![NLP Models](https://img.shields.io/badge/Models-Logistic%20Regression%20%26%20Neural%20Networks-lightgrey?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20SDK%20%26%20LangGraph-ff69b4?style=flat-square)
 
----
-
 ### 🧩 Reinforcement Learning
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Agents%20%26%20Environments-red?style=flat-square)
 ![RL Concepts](https://img.shields.io/badge/RL-Policy%20Learning%20%26%20Rewards-red?style=flat-square)
-
----
 
 ### 🤝 Intelligent & Agent-Based Systems
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-AI%20Agents-blueviolet?style=flat-square)
