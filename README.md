@@ -48,17 +48,41 @@ I'm **Beatrice Marro**, a final year ICT student at Fontys University of Applied
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📊 Artificial Intelligence and Data Analysis
-![Machine Learning](https://img.shields.io/badge/AI%20Concepts-Machine%20Learning-blue?style=flat-square)
+## 📊 Artificial Intelligence, Machine Learning & Deep Learning
+
+### 🤖 Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Supervised%20%26%20Unsupervised-blue?style=flat-square)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-Collaborative%20Filtering-9cf?style=flat-square)
+![Time Series](https://img.shields.io/badge/Time%20Series-Prophet%20Model-critical?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
+
+---
+
+### 🧠 Deep Learning
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Neural%20Networks-blueviolet?style=flat-square)
+![ANN](https://img.shields.io/badge/ANN-Artificial%20Neural%20Networks-purple?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Networks-orange?style=flat-square)
 ![Object Detection](https://img.shields.io/badge/Object%20Detection-YOLOv8-orange?style=flat-square)
 ![OCR](https://img.shields.io/badge/OCR-CNN%20%2B%20EasyOCR-yellow?style=flat-square)
-![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-Collaborative%20Filtering-9cf?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Logistic%20Regression-lightgrey?style=flat-square)
-![Time Series](https://img.shields.io/badge/Time%20Series-Prophet%20Model-critical?style=flat-square)
+
+---
+
+### 🗣 Natural Language Processing (NLP)
+![NLP](https://img.shields.io/badge/NLP-Text%20Classification-lightgrey?style=flat-square)
+![NLP Models](https://img.shields.io/badge/Models-Logistic%20Regression%20%26%20Neural%20Networks-lightgrey?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20SDK%20%26%20LangGraph-ff69b4?style=flat-square)
+
+---
+
+### 🧩 Reinforcement Learning
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-Agents%20%26%20Environments-red?style=flat-square)
+![RL Concepts](https://img.shields.io/badge/RL-Policy%20Learning%20%26%20Rewards-red?style=flat-square)
+
+---
+
+### 🤝 Intelligent & Agent-Based Systems
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent-AI%20Agents-blueviolet?style=flat-square)
 ![Tool-Using Agents](https://img.shields.io/badge/Agents-Tool--Usage%20%26%20Coordination-blueviolet?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-EDA%20%26%20Validation-teal?style=flat-square)
 
 ## 🌐 CMS & Web Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
