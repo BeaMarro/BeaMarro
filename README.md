@@ -45,10 +45,11 @@ Focused on Software Engineering, AI systems, and backend architecture
 
 ---
 
-## AI & Data
+## AI & Systems
+Machine Learning • Deep Learning • NLP • LLMs • Multi-agent systems
 
-Machine Learning • Deep Learning • NLP • LLMs • Multi-agent systems  
-SQL Server • PostgreSQL • MySQL • SQLite • Vector databases
+## Data & Storage
+SQL Server, PostgreSQL, MySQL, SQLite, Vector databases
 
 ---
 
